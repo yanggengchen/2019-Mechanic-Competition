@@ -1,0 +1,3021 @@
+<?xml version="1.0" encoding="GBK" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-04-02T21:17:50</date>
+  <millis>1554211070246</millis>
+  <sequence>6</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Load saved settings: Firmware:NodeMCU</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:50</date>
+  <millis>1554211070253</millis>
+  <sequence>7</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:50</date>
+  <millis>1554211070271</millis>
+  <sequence>8</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:50</date>
+  <millis>1554211070324</millis>
+  <sequence>9</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Set new color theme: Success.</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:50</date>
+  <millis>1554211070333</millis>
+  <sequence>10</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Load saved settings: DONE.</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:50</date>
+  <millis>1554211070335</millis>
+  <sequence>11</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Snippets: loading...</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:50</date>
+  <millis>1554211070342</millis>
+  <sequence>12</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Snippets load: Success.</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:50</date>
+  <millis>1554211070635</millis>
+  <sequence>13</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan system...</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:50</date>
+  <millis>1554211070644</millis>
+  <sequence>14</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>found last saved serial port COM3</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:50</date>
+  <millis>1554211070648</millis>
+  <sequence>15</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>found COM4</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:50</date>
+  <millis>1554211070653</millis>
+  <sequence>16</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Scan done.</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:56</date>
+  <millis>1554211076656</millis>
+  <sequence>17</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to open file init.lua</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:56</date>
+  <millis>1554211076658</millis>
+  <sequence>18</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File name: C:\Users\yangg\Desktop\init.lua</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:56</date>
+  <millis>1554211076661</millis>
+  <sequence>19</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to load file init.lua</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:56</date>
+  <millis>1554211076740</millis>
+  <sequence>20</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Loading init.lua: Success.</message>
+</record>
+<record>
+  <date>2019-04-02T21:17:56</date>
+  <millis>1554211076741</millis>
+  <sequence>21</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Open "init.lua": Success.</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:01</date>
+  <millis>1554211081039</millis>
+  <sequence>22</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Serial port COM3 save as default.</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:01</date>
+  <millis>1554211081040</millis>
+  <sequence>23</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Baud rate 115200 save as default.</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:01</date>
+  <millis>1554211081041</millis>
+  <sequence>24</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to open port COM3, baud 115200, 8N1</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:01</date>
+  <millis>1554211081055</millis>
+  <sequence>25</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Open port COM3 - Success.</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087590</millis>
+  <sequence>26</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>We save known file init.lua</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087591</millis>
+  <sequence>27</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Try to saving file init.lua ...</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087598</millis>
+  <sequence>28</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>Save file init.lua: Success.</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087607</millis>
+  <sequence>29</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileSaveESP: Try to save file to ESP...</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087623</millis>
+  <sequence>30</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>DataSender: start "Smart Mode"</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087626</millis>
+  <sequence>31</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileSaveESP: Starting...</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087651</millis>
+  <sequence>32</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>0</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087652</millis>
+  <sequence>33</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:file.remove("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087654</millis>
+  <sequence>34</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:f</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087661</millis>
+  <sequence>35</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:ile.remove("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087677</millis>
+  <sequence>36</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>1</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087678</millis>
+  <sequence>37</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:file.open("init.lua","w+");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087754</millis>
+  <sequence>38</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087755</millis>
+  <sequence>39</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: file.open("init.l</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087758</millis>
+  <sequence>40</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:ua","w+");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087774</millis>
+  <sequence>41</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>2</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087775</millis>
+  <sequence>42</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w = file.writeline&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087925</millis>
+  <sequence>43</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087927</millis>
+  <sequence>44</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: w = file.writeli</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087935</millis>
+  <sequence>45</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:ne</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087947</millis>
+  <sequence>46</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>3</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087948</millis>
+  <sequence>47</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[uart.setup(0, 9600, 8, uart.PARITY_NONE, uart.STOPBITS_1, 1)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087949</millis>
+  <sequence>48</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087955</millis>
+  <sequence>49</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[uart.setup(0, 9600, 8, uart.PARITY_NONE, uart.STOPBITS_1,</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087960</millis>
+  <sequence>50</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: 1)]==]);&lt;CR&gt;&lt;LF&gt;&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:07</date>
+  <millis>1554211087965</millis>
+  <sequence>51</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088000</millis>
+  <sequence>52</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>4</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088002</millis>
+  <sequence>53</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088004</millis>
+  <sequence>54</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088007</millis>
+  <sequence>55</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088009</millis>
+  <sequence>56</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088010</millis>
+  <sequence>57</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088021</millis>
+  <sequence>58</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>5</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088022</millis>
+  <sequence>59</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[wifi.setmode(wifi.SOFTAP)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088024</millis>
+  <sequence>60</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088026</millis>
+  <sequence>61</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[wifi.setmode(wifi.SOFT</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088030</millis>
+  <sequence>62</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:AP)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088032</millis>
+  <sequence>63</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088044</millis>
+  <sequence>64</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>6</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088045</millis>
+  <sequence>65</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088047</millis>
+  <sequence>66</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088051</millis>
+  <sequence>67</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088054</millis>
+  <sequence>68</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088066</millis>
+  <sequence>69</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>7</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088067</millis>
+  <sequence>70</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[cfg = {}]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088070</millis>
+  <sequence>71</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088073</millis>
+  <sequence>72</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[cfg = {}]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088075</millis>
+  <sequence>73</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088076</millis>
+  <sequence>74</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088086</millis>
+  <sequence>75</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>8</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088087</millis>
+  <sequence>76</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[cfg.ssid = "MechCarCtrl"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088088</millis>
+  <sequence>77</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088091</millis>
+  <sequence>78</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[cfg.ssid = "MechCarC</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088093</millis>
+  <sequence>79</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:trl"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088098</millis>
+  <sequence>80</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088110</millis>
+  <sequence>81</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>9</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088111</millis>
+  <sequence>82</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[cfg.pwd = "12345678"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088115</millis>
+  <sequence>83</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088118</millis>
+  <sequence>84</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[cfg.pwd = "12345678"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088121</millis>
+  <sequence>85</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088126</millis>
+  <sequence>86</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088139</millis>
+  <sequence>87</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>10</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088140</millis>
+  <sequence>88</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[cfg.auth = wifi.WPA2_PSK]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088141</millis>
+  <sequence>89</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088144</millis>
+  <sequence>90</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[cfg.auth = wifi.WP</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088148</millis>
+  <sequence>91</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:A2_PSK]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088150</millis>
+  <sequence>92</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088163</millis>
+  <sequence>93</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>11</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088164</millis>
+  <sequence>94</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[wifi.ap.config(cfg)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088166</millis>
+  <sequence>95</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088168</millis>
+  <sequence>96</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[wifi.ap.config(cfg</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088170</millis>
+  <sequence>97</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088173</millis>
+  <sequence>98</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088188</millis>
+  <sequence>99</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>12</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088189</millis>
+  <sequence>100</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088190</millis>
+  <sequence>101</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088193</millis>
+  <sequence>102</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088197</millis>
+  <sequence>103</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088208</millis>
+  <sequence>104</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>13</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088209</millis>
+  <sequence>105</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[cfg =]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088211</millis>
+  <sequence>106</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088218</millis>
+  <sequence>107</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[cfg =]==]);</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088231</millis>
+  <sequence>108</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>14</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088232</millis>
+  <sequence>109</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[{]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088234</millis>
+  <sequence>110</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088235</millis>
+  <sequence>111</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[{]==]);</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088237</millis>
+  <sequence>112</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088241</millis>
+  <sequence>113</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088249</millis>
+  <sequence>114</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>15</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088250</millis>
+  <sequence>115</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[    ip="192.168.1.1",]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088253</millis>
+  <sequence>116</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088255</millis>
+  <sequence>117</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[ </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088256</millis>
+  <sequence>118</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:   ip="192.168.1.1",]==</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088257</millis>
+  <sequence>119</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088260</millis>
+  <sequence>120</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088265</millis>
+  <sequence>121</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088274</millis>
+  <sequence>122</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>16</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088275</millis>
+  <sequence>123</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[    netmask="255.255.255.0",]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088280</millis>
+  <sequence>124</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088282</millis>
+  <sequence>125</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[    n</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088285</millis>
+  <sequence>126</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:etmask="255.255.255.0",]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088287</millis>
+  <sequence>127</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088288</millis>
+  <sequence>128</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088301</millis>
+  <sequence>129</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>17</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088302</millis>
+  <sequence>130</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[    gateway="192.168.1.1"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088305</millis>
+  <sequence>131</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088306</millis>
+  <sequence>132</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[ </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088308</millis>
+  <sequence>133</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:   gateway=</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088309</millis>
+  <sequence>134</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:"192.168.1.1"]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088316</millis>
+  <sequence>135</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088317</millis>
+  <sequence>136</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088327</millis>
+  <sequence>137</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>18</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088328</millis>
+  <sequence>138</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[}]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088333</millis>
+  <sequence>139</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088335</millis>
+  <sequence>140</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[}]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088339</millis>
+  <sequence>141</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088343</millis>
+  <sequence>142</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088353</millis>
+  <sequence>143</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>19</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088354</millis>
+  <sequence>144</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[wifi.ap.setip(cfg)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088355</millis>
+  <sequence>145</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088358</millis>
+  <sequence>146</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[wifi.ap.setip(cfg)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088363</millis>
+  <sequence>147</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088375</millis>
+  <sequence>148</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>20</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088376</millis>
+  <sequence>149</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088385</millis>
+  <sequence>150</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088386</millis>
+  <sequence>151</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[]==]);</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088389</millis>
+  <sequence>152</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088392</millis>
+  <sequence>153</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088401</millis>
+  <sequence>154</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>21</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088402</millis>
+  <sequence>155</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[wifi.ap.dhcp.start()]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088406</millis>
+  <sequence>156</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088407</millis>
+  <sequence>157</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[wifi.ap</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088409</millis>
+  <sequence>158</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:.dhcp.start()]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088413</millis>
+  <sequence>159</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088414</millis>
+  <sequence>160</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088424</millis>
+  <sequence>161</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>22</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088424</millis>
+  <sequence>162</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088430</millis>
+  <sequence>163</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088435</millis>
+  <sequence>164</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[]==]);&lt;CR&gt;&lt;LF&gt;&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088436</millis>
+  <sequence>165</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088446</millis>
+  <sequence>166</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>23</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088447</millis>
+  <sequence>167</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[sv = net.createServer(net.TCP)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088449</millis>
+  <sequence>168</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088450</millis>
+  <sequence>169</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088453</millis>
+  <sequence>170</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:[sv = net.createServer(net.TCP)]==]</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088453</millis>
+  <sequence>171</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088456</millis>
+  <sequence>172</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088459</millis>
+  <sequence>173</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088470</millis>
+  <sequence>174</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>24</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088471</millis>
+  <sequence>175</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088474</millis>
+  <sequence>176</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088475</millis>
+  <sequence>177</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[]==]);</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088476</millis>
+  <sequence>178</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088479</millis>
+  <sequence>179</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088481</millis>
+  <sequence>180</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088492</millis>
+  <sequence>181</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>25</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088492</millis>
+  <sequence>182</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[if sv then]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088494</millis>
+  <sequence>183</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088496</millis>
+  <sequence>184</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[if sv </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088498</millis>
+  <sequence>185</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:then]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088503</millis>
+  <sequence>186</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088517</millis>
+  <sequence>187</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>26</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088518</millis>
+  <sequence>188</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[    print("Server Created.")]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088519</millis>
+  <sequence>189</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088522</millis>
+  <sequence>190</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[    print("Server Crea</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088525</millis>
+  <sequence>191</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:ted.")]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088527</millis>
+  <sequence>192</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088528</millis>
+  <sequence>193</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088539</millis>
+  <sequence>194</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>27</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088539</millis>
+  <sequence>195</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[    sv:listen(71, function(conn)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088541</millis>
+  <sequence>196</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088542</millis>
+  <sequence>197</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088542</millis>
+  <sequence>198</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:    sv:liste</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088545</millis>
+  <sequence>199</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:n(71, function(conn)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088552</millis>
+  <sequence>200</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088565</millis>
+  <sequence>201</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>28</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088566</millis>
+  <sequence>202</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[        conn:on("receive", function(sck, data)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088568</millis>
+  <sequence>203</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088574</millis>
+  <sequence>204</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[        conn:on("receive", function(sck, data)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088577</millis>
+  <sequence>205</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088578</millis>
+  <sequence>206</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088590</millis>
+  <sequence>207</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>29</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088591</millis>
+  <sequence>208</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[            uart.write(0, data)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088596</millis>
+  <sequence>209</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088598</millis>
+  <sequence>210</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[            uart.writ</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088601</millis>
+  <sequence>211</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:e(0, data)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088607</millis>
+  <sequence>212</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088624</millis>
+  <sequence>213</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>30</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088626</millis>
+  <sequence>214</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[            uart.on("data", 4, function(d)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088637</millis>
+  <sequence>215</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088638</millis>
+  <sequence>216</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[            uart.on("data", 4, function(d)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088647</millis>
+  <sequence>217</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088652</millis>
+  <sequence>218</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088664</millis>
+  <sequence>219</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>31</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088665</millis>
+  <sequence>220</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[                conn:send(d)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088666</millis>
+  <sequence>221</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088667</millis>
+  <sequence>222</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088668</millis>
+  <sequence>223</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:           </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088669</millis>
+  <sequence>224</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:     conn:se</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088670</millis>
+  <sequence>225</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:nd(d)]==]);</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088671</millis>
+  <sequence>226</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088675</millis>
+  <sequence>227</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088688</millis>
+  <sequence>228</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>32</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088689</millis>
+  <sequence>229</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[                uart.on("data") -- unregister callback function]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088690</millis>
+  <sequence>230</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088695</millis>
+  <sequence>231</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[                uart.on("data") -- unregister ca</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088697</millis>
+  <sequence>232</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:llback function]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088700</millis>
+  <sequence>233</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088704</millis>
+  <sequence>234</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088715</millis>
+  <sequence>235</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>33</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088715</millis>
+  <sequence>236</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[            end, 0)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088716</millis>
+  <sequence>237</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088719</millis>
+  <sequence>238</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[            end, 0)]</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088721</millis>
+  <sequence>239</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088723</millis>
+  <sequence>240</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088724</millis>
+  <sequence>241</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088735</millis>
+  <sequence>242</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>34</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088736</millis>
+  <sequence>243</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[            sck:close()]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088737</millis>
+  <sequence>244</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088739</millis>
+  <sequence>245</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[            sck</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088741</millis>
+  <sequence>246</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv::close()]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088744</millis>
+  <sequence>247</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088746</millis>
+  <sequence>248</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088755</millis>
+  <sequence>249</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>35</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088756</millis>
+  <sequence>250</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[        end)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088757</millis>
+  <sequence>251</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088761</millis>
+  <sequence>252</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[        end)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088765</millis>
+  <sequence>253</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088782</millis>
+  <sequence>254</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>36</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088783</millis>
+  <sequence>255</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[    end)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088784</millis>
+  <sequence>256</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088786</millis>
+  <sequence>257</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[    end)]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088789</millis>
+  <sequence>258</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088793</millis>
+  <sequence>259</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088802</millis>
+  <sequence>260</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>37</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088803</millis>
+  <sequence>261</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:w([==[end]==]);&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088806</millis>
+  <sequence>262</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:w</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088808</millis>
+  <sequence>263</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:([==[end]==]);</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088809</millis>
+  <sequence>264</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088811</millis>
+  <sequence>265</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt; </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088821</millis>
+  <sequence>266</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>38</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088822</millis>
+  <sequence>267</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:file.close();&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088823</millis>
+  <sequence>268</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:f</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088824</millis>
+  <sequence>269</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:ile.close();</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088825</millis>
+  <sequence>270</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:
+</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088833</millis>
+  <sequence>271</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088834</millis>
+  <sequence>272</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv: </message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088848</millis>
+  <sequence>273</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>39</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088849</millis>
+  <sequence>274</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>sending:dofile("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088852</millis>
+  <sequence>275</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:d</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088855</millis>
+  <sequence>276</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>recv:ofile("init.lua");&lt;CR&gt;&lt;LF&gt;</message>
+</record>
+<record>
+  <date>2019-04-02T21:18:08</date>
+  <millis>1554211088900</millis>
+  <sequence>277</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>26</thread>
+  <message>Operation done. Duration = 1292 ms</message>
+</record>
+<record>
+  <date>2019-04-02T22:08:34</date>
+  <millis>1554214114767</millis>
+  <sequence>278</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>FileTab cleared: Success.</message>
+</record>
+<record>
+  <date>2019-04-02T22:08:34</date>
+  <millis>1554214114768</millis>
+  <sequence>279</sequence>
+  <logger>ESPlorer.ESPlorer</logger>
+  <level>INFO</level>
+  <class>ESPlorer.ESPlorer</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>File close: Success.</message>
+</record>
+</log>
